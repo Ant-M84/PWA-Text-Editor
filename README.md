@@ -2,7 +2,9 @@
 
 ## Description
 
-This is a single-page application developed utilizing Progressive Web Applications (PWA) to run a text editor in a browser.  This application is also designed to be functional offline.
+This is a single-page application developed utilizing Progressive Web Applications (PWA) to run a text editor in a browser. This application is also designed to be functional offline.
+
+![Text Editor](assets/images/JATE-application.jpg)
 
 ## Installation
 
@@ -12,11 +14,11 @@ This is a single-page application developed utilizing Progressive Web Applicatio
 
 ## Usage
 
-- Run the command `npm run start` 
+- Run the command `npm run start`
+- Available scripts are displayed as below:
 
-![alt text](assets/images/screenshot.png)
+![Package Scripts](assets/images/package-scripts.jpg)
 
 ## Credits
 
 This application was developed utilizing source code as provided by UNC Chapel Hill Coding Boot Camp.
-
