@@ -12,7 +12,7 @@ This is a single-page application developed utilizing Progressive Web Applicatio
 
 ## Usage
 
-
+- Run the command `npm run start` 
 
 ![alt text](assets/images/screenshot.png)
 
